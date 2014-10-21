@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://danielj1980.github.io/sitemap.xml 
